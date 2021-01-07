@@ -1,0 +1,9 @@
+aasssdasdasda pressed
+a pressed
+backspace pressed
+backspace pressed
+a pressed
+esc pressed
+esc pressed
+esc pressed
+logger terminated
